@@ -1,0 +1,23 @@
+h1 {
+    color:red;
+}
+h3,span, h4{
+    color: white;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: royalblue;
+    padding: 50px;
+    border: rgb(231, 247, 10) 15px dashed
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+body{
+    background-image: url("http://drive.google.com/uc?export=view&id=1FTFBQtQ5Sdqh3vTV1hQdRVPsMKwkmq1J  ")
+}
